@@ -1,4 +1,3 @@
-
 /* 1. Crear dos variables numéricas de tipo entero. Realizar estas operaciones en este orden:
  a. Dar un valor a la primera
  b. Le damos a la segunda el valor de la primera
