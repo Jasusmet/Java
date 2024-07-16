@@ -2,6 +2,8 @@
 
 ## Curso de Java desde cero
 
+> ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
+
 ![](./Images/header.jpg)
 
 ## Código
