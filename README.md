@@ -8,8 +8,10 @@
 
 ## Código
 
-* [Ejercicios Básicos](./Basic/EjerciciosBásicos)
+* [Ejercicios básicos](./Basic/EjerciciosBásicos)
+* [Ejercicios básicos con métodos](./Basic/EjerciciosBásicosConMétodos)
 * [Arrays](./Basic/Arrays)
+* [ArrayList](./Basic/ArrayList)
 
 ## Enlaces de interés
 
