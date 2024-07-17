@@ -11,7 +11,8 @@
 * [Ejercicios básicos](./Basic/EjerciciosBásicos)
 * [Ejercicios básicos con métodos](./Basic/EjerciciosBásicosConMétodos)
 * [Arrays](./Basic/Arrays)
-* [ArrayList](./Basic/ArrayList)
+* [Colecciones](./Basic/Colecciones)
+* [Strings](./Basic/Strings)
 
 ## Enlaces de interés
 

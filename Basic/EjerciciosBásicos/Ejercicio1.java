@@ -11,7 +11,7 @@ package EjerciciosBásicos;
 public class Ejercicio1 {
     public static void main(String[] args) {
         int variable1 = 10; // a. Dar un valor a la primera
-        int variable2 = variable1; // b. Le damos a la segunda el valor
+        int variable2 = variable1; // b. Le damos a la segunda el valor de la primera
 
         System.out.println("Variable 1: " + variable1); // c. Imprimir por pantalla las dos variables
         System.out.println("Variable 2: " + variable2);
