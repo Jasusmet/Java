@@ -8,7 +8,7 @@
 
 ## Código
 
-* [Ejercicios Básicos](./Basic/00-ejerciciosbasicos.java)
+* [Ejercicios Básicos](./Basic/EjerciciosBásicos)
 
 ## Enlaces de interés
 
