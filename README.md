@@ -9,6 +9,7 @@
 ## Código
 
 * [Ejercicios Básicos](./Basic/EjerciciosBásicos)
+* [Arrays](./Basic/Arrays)
 
 ## Enlaces de interés
 
