@@ -1,7 +1,9 @@
 package EjerciciosBásicos;
 
-/* 3. Escribe un programa donde se declaren dos variables int (con el valor que desees), muestra por consola la suma, resta, multiplicación, división y módulo
-(%) (resto de la división) */
+/*
+ 3. Escribe un programa donde se declaren dos variables int (con el valor que desees),
+muestra por consola la suma, resta, multiplicación, división y módulo (%) (resto de la división)
+ */
 
 public class Ejercicio3 {
     public static void main(String[] args) {

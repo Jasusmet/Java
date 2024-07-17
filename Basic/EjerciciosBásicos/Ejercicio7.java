@@ -1,6 +1,7 @@
 package EjerciciosBásicos;
 
-/* 7. Realizar un ejercicio en el que se calcule el área de un rectángulo y de un
+/*
+ 7. Realizar un ejercicio en el que se calcule el área de un rectángulo y de un
 triángulo. Para cada uno declaramos las variables que necesitemos para su cálculo
  a. area_rectangulo = lado * lado
  b. area_triangulo = base * altura/2

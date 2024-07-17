@@ -1,6 +1,7 @@
 package Arrays;
 
-/* 1. Crea un array de números enteros con un tamaño de 10 elementos.
+/*
+ 1. Crea un array de números enteros con un tamaño de 10 elementos.
  a. Asigna valor a las posiciones 1, 4, 9 y 10
  b. Imprime los valores de las posiciones 4, 1, 8 y 10
  c. Imprime el tamaño total que tiene el array

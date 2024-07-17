@@ -1,8 +1,10 @@
 package EjerciciosBásicos;
 
-/* 2. Dadas dos variables numéricas A y B con los valores que elijas, realizar un
+/*
+ 2. Dadas dos variables numéricas A y B con los valores que elijas, realizar un
 programa para intercambiar los valores de ambas variables y muestre su
-valor por pantalla */
+valor por pantalla
+ */
 
 public class Ejercicio2 {
     public static void main(String[] args) {

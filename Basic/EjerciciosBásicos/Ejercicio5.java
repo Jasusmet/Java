@@ -1,13 +1,14 @@
 package EjerciciosBásicos;
 
-/* 5. Escribe un programa para hacer lo siguiente:
+/*
+ 5. Escribe un programa para hacer lo siguiente:
  a. Declarar una variable P de tipo int, una variable A de tipo double y una variable C de tipo char
  b. Asignar a cada una un valor
  c. Después, mostrar por pantalla:
     i.      El valor de cada variable
     ii.     La suma de P + A
     iii.    La diferencia de A - P
-*/
+ */
 
 public class Ejercicio5 {
     public static void main(String[] args) {
