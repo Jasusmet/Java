@@ -1,7 +1,7 @@
 package Arrays;
 
 /*
- 3. Crea un array de tipo char con un tamaño de 26 elementos. Rellena el array con los
+3. Crea un array de tipo char con un tamaño de 26 elementos. Rellena el array con los
 números del 65 al 90, ambos incluidos. Por último, imprime todos los elementos del array.
  */
 

@@ -3,7 +3,7 @@ package Arrays;
 import java.util.Scanner;
 
 /*
- 4. Crea un array de tamaño a un número que el usuario introduzca por teclado
+4. Crea un array de tamaño a un número que el usuario introduzca por teclado
  a. Pide al usuario tantos números como tamaño tenga el array y rellena el array con esos números que vaya introduciendo.
  b. Imprime los valores en una misma línea, separados por comas o espacios, menos
  los números que están en la primera y última posición, que deben imprimirse aparte.

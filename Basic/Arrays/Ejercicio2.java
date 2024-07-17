@@ -1,10 +1,11 @@
 package Arrays;
 
-/* 2. Crea un array de números enteros de 20 elementos
-a. Asígnale a cada posición los números del 1 al 20 utilizando un bucle
-b. Imprime todos los elementos
-c. Imprime todos los números menos la primera y última posición del array, ni tampoco la posición décima
-d. Imprime sólo los números pares
+/*
+2. Crea un array de números enteros de 20 elementos
+ a. Asígnale a cada posición los números del 1 al 20 utilizando un bucle
+ b. Imprime todos los elementos
+ c. Imprime todos los números menos la primera y última posición del array, ni tampoco la posición décima
+ d. Imprime sólo los números pares
  */
 
 public class Ejercicio2 {

@@ -1,7 +1,7 @@
 package EjerciciosBásicos;
 
 /*
- 6. Escribe un programa que haga lo siguiente:
+6. Escribe un programa que haga lo siguiente:
  a. Declarar dos variables X e Y de tipo int
  b. Dos variables N y M de tipo double
  c. Asigna a cada una un valor
