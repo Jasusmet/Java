@@ -13,6 +13,8 @@
 * [Arrays](./Basic/Arrays)
 * [Colecciones](./Basic/Colecciones)
 * [Strings](./Basic/Strings)
+* [Condiciones](./Basic/Condiciones)
+* [Bucles](./Basic/Bucles)
 
 ## Enlaces de interés
 
