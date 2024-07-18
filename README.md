@@ -1,6 +1,6 @@
-# Java
+# Java básico
 
-## Curso de Java desde cero
+## Curso de Java básico
 
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
